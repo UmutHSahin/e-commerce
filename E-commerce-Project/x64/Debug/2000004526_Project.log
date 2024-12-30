@@ -1,0 +1,13 @@
+﻿  Project.cpp
+C:\Users\Umut Hasan Şahin\source\repos\2000004526_Project\2000004526_Project\Project.cpp(276,22): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'bool' türü karışımı
+C:\Users\Umut Hasan Şahin\source\repos\2000004526_Project\2000004526_Project\Project.cpp(311,24): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'bool' türü karışımı
+C:\Users\Umut Hasan Şahin\source\repos\2000004526_Project\2000004526_Project\Project.cpp(347,24): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'bool' türü karışımı
+C:\Users\Umut Hasan Şahin\source\repos\2000004526_Project\2000004526_Project\Project.cpp(423,24): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'bool' türü karışımı
+C:\Users\Umut Hasan Şahin\source\repos\2000004526_Project\2000004526_Project\Project.cpp(455,24): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'bool' türü karışımı
+C:\Users\Umut Hasan Şahin\source\repos\2000004526_Project\2000004526_Project\Project.cpp(491,24): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'bool' türü karışımı
+C:\Users\Umut Hasan Şahin\source\repos\2000004526_Project\2000004526_Project\Project.cpp(562,24): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'bool' türü karışımı
+C:\Users\Umut Hasan Şahin\source\repos\2000004526_Project\2000004526_Project\Project.cpp(598,24): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'bool' türü karışımı
+C:\Users\Umut Hasan Şahin\source\repos\2000004526_Project\2000004526_Project\Project.cpp(633,24): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'bool' türü karışımı
+C:\Users\Umut Hasan Şahin\source\repos\2000004526_Project\2000004526_Project\Project.cpp(695,6): warning C4102: 'bookchangeup': etiket başvurusu kaldırıldı
+C:\Users\Umut Hasan Şahin\source\repos\2000004526_Project\2000004526_Project\Project.cpp(807,9): warning C4102: 'b': etiket başvurusu kaldırıldı
+  2000004526_Project.vcxproj -> C:\Users\Umut Hasan Şahin\source\repos\2000004526_Project\x64\Debug\2000004526_Project.exe
